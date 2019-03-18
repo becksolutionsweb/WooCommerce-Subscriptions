@@ -1,4 +1,4 @@
-# WooCommerce ubscriptions
+# WooCommerce Subscriptions
 WooCommerce Subscriptions is a WooCommerce Extension being distributed by WooCommerce.com (previously known as WooThemes). WooCommerce Subscriptions – Let customers subscribe to your products or services and pay on a weekly, monthly or annual basis.
 
 # Capture More Residual Revenue with Recurring Payments
