@@ -42,3 +42,6 @@ You’ll be able to track just how many subscribers you have, when they’re bei
     WC requires at least: 2.5
     WC tested up to: 3.2
     Woo: 27147:6115e6d7e297b623a169fdcf5728b224
+    
+# Updates
+To get the plugin update faster (although we upload it too, but slowly.) you can buy the GPL version, with lifetime updates here: https://www.themecrack.net/items/woocommerce-subscriptions/
